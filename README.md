@@ -1,0 +1,1 @@
+# paparazzi-room-issue
